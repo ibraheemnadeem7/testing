@@ -1,3 +1,2 @@
-class ApplicationController < ArticlesController::Base
-
+class ApplicationController < ActionController::Base
 end
